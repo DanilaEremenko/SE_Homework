@@ -10,8 +10,8 @@ plugins {
     id 'java'
 }
 
-group = 'com.example'
-version = '0.0.1-SNAPSHOT'
+group = 'days_to'
+version = 'latest'
 sourceCompatibility = '1.8'
 
 apply plugin: 'docker'
